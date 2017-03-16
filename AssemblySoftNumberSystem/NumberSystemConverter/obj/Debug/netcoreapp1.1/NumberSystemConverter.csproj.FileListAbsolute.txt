@@ -1,0 +1,7 @@
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\bin\Debug\netcoreapp1.1\NumberSystemConverter.deps.json
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\bin\Debug\netcoreapp1.1\NumberSystemConverter.dll
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\bin\Debug\netcoreapp1.1\NumberSystemConverter.pdb
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\obj\Debug\netcoreapp1.1\NumberSystemConverter.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\obj\Debug\netcoreapp1.1\NumberSystemConverter.AssemblyInfo.cs
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\obj\Debug\netcoreapp1.1\NumberSystemConverter.dll
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter\obj\Debug\netcoreapp1.1\NumberSystemConverter.pdb

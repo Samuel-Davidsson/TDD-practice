@@ -1,0 +1,5 @@
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter_UnitTest\bin\Debug\netcoreapp1.1\NumberSystemConverter_UnitTest.deps.json
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter_UnitTest\bin\Debug\netcoreapp1.1\NumberSystemConverter_UnitTest.runtimeconfig.json
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter_UnitTest\bin\Debug\netcoreapp1.1\NumberSystemConverter_UnitTest.runtimeconfig.dev.json
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter_UnitTest\obj\Debug\netcoreapp1.1\NumberSystemConverter_UnitTest.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2017\Projects\AssemblySoftNumberSystem\NumberSystemConverter_UnitTest\obj\Debug\netcoreapp1.1\NumberSystemConverter_UnitTest.AssemblyInfo.cs
