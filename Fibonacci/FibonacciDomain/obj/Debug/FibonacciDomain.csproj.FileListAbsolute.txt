@@ -1,0 +1,5 @@
+c:\users\samuel\documents\visual studio 2017\Projects\Fibonacci\FibonacciDomain\bin\Debug\FibonacciDomain.dll
+c:\users\samuel\documents\visual studio 2017\Projects\Fibonacci\FibonacciDomain\bin\Debug\FibonacciDomain.pdb
+c:\users\samuel\documents\visual studio 2017\Projects\Fibonacci\FibonacciDomain\obj\Debug\FibonacciDomain.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2017\Projects\Fibonacci\FibonacciDomain\obj\Debug\FibonacciDomain.dll
+c:\users\samuel\documents\visual studio 2017\Projects\Fibonacci\FibonacciDomain\obj\Debug\FibonacciDomain.pdb

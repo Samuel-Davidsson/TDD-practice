@@ -1,0 +1,5 @@
+c:\users\samuel\documents\visual studio 2017\Projects\BowlingKataProject\BowlingProject\bin\Debug\BowlingProject.dll
+c:\users\samuel\documents\visual studio 2017\Projects\BowlingKataProject\BowlingProject\bin\Debug\BowlingProject.pdb
+c:\users\samuel\documents\visual studio 2017\Projects\BowlingKataProject\BowlingProject\obj\Debug\BowlingProject.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2017\Projects\BowlingKataProject\BowlingProject\obj\Debug\BowlingProject.dll
+c:\users\samuel\documents\visual studio 2017\Projects\BowlingKataProject\BowlingProject\obj\Debug\BowlingProject.pdb

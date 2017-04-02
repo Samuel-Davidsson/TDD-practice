@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2017\Projects\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2017\Projects\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.exe.config
+c:\users\samuel\documents\visual studio 2017\Projects\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.exe
+c:\users\samuel\documents\visual studio 2017\Projects\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+c:\users\samuel\documents\visual studio 2017\Projects\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.exe
+c:\users\samuel\documents\visual studio 2017\Projects\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
